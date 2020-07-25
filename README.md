@@ -1,6 +1,8 @@
 <div align="center">
+  
+  <img src="https://github.com/diasandre/diasandre/blob/master/img/welcome.png"/>
 
-  ### Hi, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+  ### Hi, my name is André! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
   
   **📫 Reach me at:**<br>
 
